@@ -21,11 +21,9 @@ CREATE TABLE [dbo].[SampleObject]
 
 ![FullStackCodeGen - Context menu](SolutionExplorer.png)
 
-* Select the appropriate options on the "Full Stack Code Gen" tool window:
+* Select the appropriate options on the "Full Stack Code Gen" tool window and click "Preview Code":
 
 ![FullStackCodeGen - tool menu](FullStackCodeGen-CompleteWindow.png)
-
-* Click "Preview Code"
 
 * Smile :)
 
