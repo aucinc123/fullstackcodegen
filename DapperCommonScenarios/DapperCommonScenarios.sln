@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DapperCommonScenarios.API", "DapperCommonScenarios.API\DapperCommonScenarios.API.csproj", "{6202D713-DDA7-4E03-AF7D-91E6263A1AFA}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DapperCommonScenarios.DB", "DapperCommonScenarios.DB\DapperCommonScenarios.DB.sqlproj", "{5BB4BEE6-2ED5-48CB-9D8A-7D3F051F6F12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6202D713-DDA7-4E03-AF7D-91E6263A1AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6202D713-DDA7-4E03-AF7D-91E6263A1AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6202D713-DDA7-4E03-AF7D-91E6263A1AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6202D713-DDA7-4E03-AF7D-91E6263A1AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BB4BEE6-2ED5-48CB-9D8A-7D3F051F6F12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB4BEE6-2ED5-48CB-9D8A-7D3F051F6F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB4BEE6-2ED5-48CB-9D8A-7D3F051F6F12}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5BB4BEE6-2ED5-48CB-9D8A-7D3F051F6F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB4BEE6-2ED5-48CB-9D8A-7D3F051F6F12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BB4BEE6-2ED5-48CB-9D8A-7D3F051F6F12}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7B88F58-AEE2-4C6E-B9FD-50373B8F619F}
+	EndGlobalSection
+EndGlobal

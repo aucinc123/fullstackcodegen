@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Blogs]
+(
+	[Id] INT NOT NULL IDENTITY(1,1) PRIMARY KEY,	
+	[Title] VARCHAR(100) NOT NULL,
+	[Contents] VARCHAR(MAX) NOT NULL
+);
